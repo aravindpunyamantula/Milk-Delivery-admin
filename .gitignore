@@ -45,6 +45,6 @@ app.*.map.json
 /android/app/release
 
 # Firebase & Secrets
-android/app/google-service.json
+android/app/google-services.json
 lib/firebase_options.dart
 *.jks
