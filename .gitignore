@@ -46,5 +46,5 @@ app.*.map.json
 
 # Firebase & Secrets
 android/app/google-services.json
-lib/firebase_options.dart
+firebase_options.dart
 *.jks
